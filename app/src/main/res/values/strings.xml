@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActionBarPractica</string>
+    <string name="archivo">Archivo\n</string>
+    <string name="action_buscar">Buscar\n</string>
+    <string name="action_opciones">Opciones\n</string>
+    <string name="action_salir">Salir</string>
+    <string name="action_borrar">Borrar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
